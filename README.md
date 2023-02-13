@@ -1,2 +1,2 @@
 # ecommerce-cart
-An eccommerce add to cart on pager feature
+An eccommerce add to cart one pager feature
